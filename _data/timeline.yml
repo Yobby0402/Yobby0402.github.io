@@ -17,45 +17,42 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: 河北科技大学
+  title-url: 
+  date: 2022.09 - Present
+  subtitle: 电子信息专业硕士
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: 英语六级证书
+  title-url: 
+  date: Dec 2022
+  subtitle: 获得英语六级及格证书
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+  - title: 计算机二级证书
+  title-url: 
+  date: Sep 2019
+  subtitle: 获得计算机二级等级证书
+  tags:
+  timeline-side: left
+
+
+- title: 学习课程
+  title-url: 
+  date: 2018.06 - 2021.09
+  subtitle: 大学期间学习课程
+  tags:
+    - tag: 数字电路、模拟电路
+    - tag: 自动控制原理
+    - tag: 单片机控制、PLC控制、计算机控制
+    - tag: 电力电子技术，工厂供电
+    - tag: 三维设计，电子线路设计
+    - tag: C语言程序设计，python程序设计
+  timeline-side: right
+
+- title: 河北科技大学
+  title-url: 
+  date: 2017.06 - 2021.06
+  subtitle: 自动化 学士
   timeline-side: left
