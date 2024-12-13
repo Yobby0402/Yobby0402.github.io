@@ -18,27 +18,23 @@
 #   timeline-side: right
 
 - title: 河北科技大学
-  title-url: 
   date: 2022.09 - Present
   subtitle: 电子信息专业硕士
   timeline-side: left
 
-- title: 英语六级证书
-  title-url: 
+- title: 英语六级
   date: Dec 2022
   subtitle: 获得英语六级及格证书
   tags:
   timeline-side: right
 
   - title: 计算机二级证书
-  title-url: 
   date: Sep 2019
   subtitle: 获得计算机二级等级证书
   tags:
   timeline-side: left
 
 - title: 学习课程
-  title-url: 
   date: 2018.06 - 2021.09
   subtitle: 大学期间学习课程
   tags:
@@ -51,7 +47,6 @@
   timeline-side: right
 
 - title: 河北科技大学
-  title-url: 
   date: 2017.06 - 2021.06
   subtitle: 自动化 学士
   timeline-side: left
