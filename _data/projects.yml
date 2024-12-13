@@ -13,21 +13,26 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: 户外高压防护系统
+  descr: "与河北新远方科技公司共同为铁路局研发一款用于户外高压区域安全防护系统，使用四个激光测距雷达实现电子围栏功能，用于实现检测到闯入后断开高压区域的供电。 本人负责硬件电路和PCB设计。硬件方面使用STM32F0系列低成本单片机为主控，使用多路复用器扩展四路串口读取雷达与Lora模块的报文， 硬件部分的难点在于解决户外工况下器件的选型、隔离电路设计、安全防护电路设计以及电路EMI控制（避免影响Lora）射频电路， 软件设计主要解决LoRa模块ACK应答机制实现以及使用复用器解析多个雷达模块的报文。目前项目已通过验收并交付。"
+  demo: 
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: STM32
+    - tag: FreeRtos
+    - tag: EMC/EMI
+    - tag: HardWare Design
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: 国家电网二次作业智能辅助系统
+  descr: "为国家电网某区局独立完成一套用于服务器等机柜的端子号识别与检测软件。本人负责PyQt程序设计。 程序主要功能为接入API显示异常信息，并存入数据库；并可以通过设备摄像头拍摄服务器接线端子上的序列号识别出该接线端子所在图纸并调出备查， 同时具备一些办公自动化功能例如自动导出csv或其他办公文件格式的异常记录报告等。"
+  demo: https://github.com/Yobby0402/State-Grid-Software
   tags:
     - tag: Python
-    - tag: Django
+    - tag: PyQt
+    - tag: OpenCV
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: 医疗监测与诊断辅助系统
+  descr: "团队为中国人民解放军白求恩国际和平医院研发一种医疗监测与诊断辅助系统的设计。通过采集患者生命体征数据并上传至服务器供医师参考。本人在项目中负责硬件电路设计以及音频采集部分程序设计。 硬件部分主要包括高速医学信号以及声音信号的采集，例如呼吸气压、体动数据和音频信号。设计低功耗供电电路包括电池管理以及升压电路等。 软件部分包括算法滤波以及声音信号实时上传和保存。本人的毕业设计课题取材于此，主要研究从采集到的数据中建立数据库并进一步分析患者可能存在的呼吸异常风险种类。 项目在2024年兆易创新杯中获得华北区赛一等奖。"
+  tags:
+    - tag: ESPIDF
+    - tag: C/C++
+    - tag: TensorFlow
