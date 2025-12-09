@@ -36,3 +36,30 @@
     - tag: C/C++
     - tag: TensorFlow
     - tag: Digital Medical Devices
+
+- name: 8-Bit-Music-Editor
+  descr: "一款基于Python开发的8位音乐编辑器，用于创作复古风格的音乐。支持多种音符和节奏，提供直观的用户界面，方便用户进行音乐创作和编辑。"
+  demo: https://github.com/Yobby0402/8-Bit-Music-Editor
+  tags:
+    - tag: Python
+    - tag: 音乐编辑
+    - tag: 8位音乐
+
+- name: YobbyFileServer
+  descr: "一个本地文件浏览器与图表编辑器，集成了drawio的部分功能。用于本地文件管理和图表创作，提供简洁的用户界面和丰富的功能。"
+  demo: https://github.com/Yobby0402/YobbyFileServer
+  tags:
+    - tag: JavaScript
+    - tag: 文件管理
+    - tag: 图表编辑
+    - tag: Web应用
+    - tag: 项目进度管理
+
+- name: Yobboy-keyboard
+  descr: "使用ESP32S3设计的一款客制化键盘，可以自定义配置按键映射。硬件和三维模型均已开源，支持用户根据自己的需求进行修改和扩展。"
+  demo: https://github.com/Yobby0402/Yobboy-keyboard
+  tags:
+    - tag: C
+    - tag: ESP32
+    - tag: 客制化键盘
+    - tag: 硬件设计

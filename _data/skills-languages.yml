@@ -11,32 +11,14 @@
 - name: C/C++
   weight: 4
 
-- name: Flask
-  weight: 2
-
-- name: HTML5
+- name: JavaScript
   weight: 4
-
-- name: PyQt5
-  weight: 4
-
-- name: Tensor Flow
-  weight: 3
-
-- name: FreeRTOS
-  weight: 3
-
-- name: ESPIDF
-  weight: 4
-
-- name: Keil
-  weight: 4
-
-- name: STM32CubeIDE
-  weight: 1
 
 - name: Micropython
   weight: 5
 
-- name: Arduino
-  weight: 1
+- name: HTML5
+  weight: 4
+
+- name: CSS3
+  weight: 3

@@ -17,34 +17,62 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: 河北科技大学
-  date: 2022.09 - Present
-  subtitle: 电子信息专业硕士
+- title: 河北科技大学学士
+  date: 2017.09 - 2021.06
+  subtitle: 自动化专业
   timeline-side: left
 
-- title: 英语六级
-  date: Dec 2022
-  subtitle: 获得英语六级证书
-  timeline-side: right
-
-- title: 计算机二级证书
-  date: Sep 2019
-  subtitle: 获得计算机二级等级证书
-  timeline-side: left
-
-- title: 学习课程
-  date: 2018.06 - 2021.09
-  subtitle: 大学期间学习课程
+- title: 户外高压防护系统
+  date: 2023.03 - 2023.08
+  subtitle: 教育项目
+  descr: 与河北新远方科技公司共同为铁路局研发一款用于户外高压区域安全防护系统，使用四个激光测距雷达实现电子围栏功能
   tags:
-    - tag: 数字电路、模拟电路
-    - tag: 自动控制原理
-    - tag: 单片机控制、PLC控制、计算机控制
-    - tag: 电力电子技术，工厂供电
-    - tag: 三维设计，电子线路设计
-    - tag: C语言程序设计，python程序设计
+    - tag: STM32
+    - tag: FreeRtos
+    - tag: EMC/EMI
+    - tag: 硬件设计
+  timeline-side: left
+
+- title: 国家电网二次作业智能辅助系统
+  date: 2023.10 - 2024.03
+  subtitle: 教育项目
+  descr: 为国家电网某区局独立完成一套用于服务器等机柜的端子号识别与检测软件
+  tags:
+    - tag: Python
+    - tag: PyQt
+    - tag: OpenCV
   timeline-side: right
 
-- title: 河北科技大学
-  date: 2017.06 - 2021.06
-  subtitle: 自动化 学士
+- title: 医疗监测与诊断辅助系统
+  date: 2024.04 - 2024.10
+  subtitle: 教育项目
+  descr: 团队为中国人民解放军白求恩国际和平医院研发一种医疗监测与诊断辅助系统
+  tags:
+    - tag: ESPIDF
+    - tag: C/C++
+    - tag: TensorFlow
+    - tag: 医疗设备
   timeline-side: left
+
+- title: 河北科技大学硕士
+  date: 2022.09 - 2025.06
+  subtitle: 电子信息专业硕士
+  timeline-side: right
+
+- title: 河南驰诚电气股份有限公司
+  date: 2025.02-2025.05
+  subtitle: 硬件工程师(实习)
+  tags:
+    - tag: 工业燃气管道监测设备
+    - tag: 家庭燃气监测报警设备
+  timeline-side: left
+
+- title: 上海安图声信息科技有限公司
+  date: 2025.06-Present
+  subtitle: 硬件工程师(全职)
+  tags:
+    - tag: 无线音视频传输
+    - tag: 图像处理芯片硬件设计
+    - tag: 定位、对讲设备开发
+  timeline-side: right
+

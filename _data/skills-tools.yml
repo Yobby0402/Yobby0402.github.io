@@ -5,17 +5,26 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
-  weight: 3
+# 嵌入式开发工具
+- name: Keil
+  weight: 4
 
-- name: Office
-  weight: 3
+- name: STM32CubeIDE
+  weight: 1
 
-- name: Adobe
-  weight: 2
-
+# 软件开发工具
 - name: VS Code
   weight: 3
 
 - name: Jetbrain
   weight: 4
+
+- name: Git
+  weight: 3
+
+# 办公与设计工具
+- name: Office
+  weight: 3
+
+- name: Adobe
+  weight: 2

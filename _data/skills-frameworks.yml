@@ -5,18 +5,27 @@
 # - name: Framework
 #   weight: 5
 
-- name: Solid Works
-  weight: 5
-
-- name: PTC Creo
-  weight: 4
-
-- name: Blender
-  weight: 2
-
-- name: Shapr3D
+# 嵌入式开发框架
+- name: FreeRTOS
   weight: 3
 
+- name: ESPIDF
+  weight: 4
+
+- name: Arduino
+  weight: 1
+
+# 软件开发框架
+- name: Flask
+  weight: 2
+
+- name: PyQt5
+  weight: 4
+
+- name: Tensor Flow
+  weight: 3
+
+# 硬件设计工具
 - name: Altium Designer
   weight: 5
 
@@ -28,6 +37,20 @@
 
 - name: Allegro
   weight: 3
+
+# 机械设计工具
+- name: Solid Works
+  weight: 5
+
+- name: PTC Creo
+  weight: 4
+
+- name: Shapr3D
+  weight: 3
+
+# 3D建模与渲染
+- name: Blender
+  weight: 2
 
 - name: Unreal Engine
   weight: 2
